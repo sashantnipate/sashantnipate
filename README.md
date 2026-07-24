@@ -144,24 +144,7 @@ Q-Learning, SARSA, First-Visit & Every-Visit Monte Carlo agents across Gymnasium
 **Pimpri Chinchwad College of Engineering, Pune**
 B.Tech — Computer Science & Engineering (AI & ML) | Sep 2024 – May 2028 | CGPA: 8.44
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sashant-nipate&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashant-nipate&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sashant-nipate&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sashant-nipate&theme=tokyo-night" alt="Contribution Graph"/>
-</p>
-
----
 
 ## 📫 Let's Connect
 
