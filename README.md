@@ -149,16 +149,16 @@ B.Tech — Computer Science & Engineering (AI & ML) | Sep 2024 – May 2028 | CG
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sashant-nipate&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashant-nipate&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sashant-nipate&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sashant-nipate&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -168,9 +168,8 @@ B.Tech — Computer Science & Engineering (AI & ML) | Sep 2024 – May 2028 | CG
 I'm always open to internships, collaborations, research discussions, or just geeking out about AI/ML and full-stack dev.
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/sashant-nipate"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:sashantnipate@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="tel:9403909736"><img src="https://img.shields.io/badge/Call-9403909736-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
 <p align="center"><i>📍 Moshi, Pimpri-Chinchwad, Pune, India</i></p>
