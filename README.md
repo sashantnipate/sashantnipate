@@ -92,34 +92,34 @@ While I've built and shipped a fair number of projects, I'm very aware there's s
 
 ## 📌 Featured Projects
 
-### 🎪 [Eventflow — Unified Campus Fabric](https://github.com/YOUR-USERNAME/eventflow)
+### 🎪 [Eventflow — Unified Campus Fabric](https://github.com/sashantnipate/eventflow)
 Full-stack event management platform handling the complete lifecycle from event creation to attendance tracking and result reporting.
 - Role-based auth (Student/Admin) with OTP and Google login
 - Multi-round event management, certificate generation, and public verification
 - **Tech:** React, Express, MongoDB, Node.js, Material UI
 
-### 🤖 [Memoria — AI-Powered Personal Assistant](https://github.com/YOUR-USERNAME/memoria)
+### 🤖 [Memoria — AI-Powered Personal Assistant](https://github.com/sashantnipate/memoria)
 Full-stack AI assistant integrating Gmail, Google Calendar, and Google Meet APIs, powered by GPT-4.
 - Semantic email search via MongoDB Atlas Vector Search + OpenAI embeddings
 - Autonomous background agents (Inngest) for scheduled tasks and workflow automation
 - Generative UI components rendering interactive forms inside the chat
 - **Tech:** React, MongoDB, Node.js, Next.js, Inngest, RAG, Google Workspace API
 
-### ⛓️ [GovNitiChain (NitiChain)](https://github.com/YOUR-USERNAME/govnitichain)
+### ⛓️ [GovNitiChain (NitiChain)](https://github.com/sashantnipate/govnitichain)
 Blockchain-based welfare platform preventing corruption in subsidy distribution.
 - Ethereum (ERC-20) smart contracts for scheme-based benefit distribution
 - Aadhaar-linked wallet verification to eliminate duplicate/ghost beneficiaries
 - Tamper-proof ledger via SHA-256 hash-chaining, MetaMask integration
 - **Tech:** Next.js, TypeScript, MongoDB, Solidity, Hardhat, Ethers.js, Clerk, Web3
 
-### 📖 [Temporal-Density Anchored Retrieval System](https://github.com/YOUR-USERNAME/temporal-density-retrieval)
+### 📖 [Temporal-Density Anchored Retrieval System](https://github.com/sashantnipate/temporal-density-retrieval)
 Built at the **IIT Kharagpur Data Science Hackathon** — a hybrid semantic-temporal retrieval system for long-text consistency checking.
 - Detects contradictions in character backstories within long narratives
 - Combines semantic embeddings + temporal indexing + DBSCAN clustering
 - LLM-based final consistency reasoning over retrieved evidence
 - **Tech:** Python, DBSCAN (Scikit-learn), Pandas, Machine Learning
 
-### 🎮 [Reinforcement Learning Portfolio](https://github.com/YOUR-USERNAME/rl-portfolio)
+### 🎮 [Reinforcement Learning Portfolio](https://github.com/sashantnipate/rl-portfolio)
 Q-Learning, SARSA, First-Visit & Every-Visit Monte Carlo agents across Gymnasium environments.
 - 55,000+ training episodes with ε-greedy exploration and state discretization
 - ~43% Blackjack win rate (Q-Learning/SARSA), ~191 avg. reward on CartPole (Every-Visit MC)
